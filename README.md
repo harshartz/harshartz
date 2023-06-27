@@ -1,11 +1,21 @@
 # Hi there, I'm Harsh Hire! 👋
 Highly motivated cloud engineer with a strong background in cloud computing, DevOps, and AWS. I am passionate about leveraging cutting-edge technologies to build scalable and secure cloud infrastructure. Welcome to my GitHub profile!
 
-## Skills
-- Cloud Architecture & Management: AWS (EC2, S3, RDS, Lambda)
-- Programming Languages: Python, C, Linux
-- DevOps & Tools: Git, Docker, Jenkins
-- Networking: VPC Peering, Secure Multi-VPC Architectures
+### Skills 
+<div align="center">  
+<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
+<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
+<a href="https://www.terraform.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/terraformio-icon.svg" alt="Terraform" height="50" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
+<a href="https://www.jenkins.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="50" /></a>  
+<a href="https://www.ansible.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ansible.png" alt="Ansible" height="50" /></a>  
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
+</div>
+
 
 ## Projects
 Here are a few noteworthy projects I have worked on:
@@ -34,8 +44,13 @@ Here are a few noteworthy projects I have worked on:
 ## Certifications
 - In progress: AWS Certified Cloud Practitioner
 
-## Connect with Me
-- LinkedIn: [linkedin.com/in/harshhire](https://linkedin.com/in/harshhire)
-
-Feel free to explore my repositories to see my projects and contributions. Don't hesitate to reach out if you have any questions or collaboration opportunities. Let's connect and make an impact in the world of cloud engineering!
+## Connect with me  
+<div align="center">
+<a href="https://github.com/harshartz" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/harshhire" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+</div>  
 
