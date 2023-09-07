@@ -1,5 +1,5 @@
-# Hi there, I'm Harsh Hire! 👋
-Highly motivated cloud engineer with a strong background in cloud computing, DevOps, and AWS. I am passionate about leveraging cutting-edge technologies to build scalable and secure cloud infrastructure. Welcome to my GitHub profile!
+# 💫 About Me:
+👋 I'm Harsh Hire, a tech enthusiast with a passion for learning and a strong work ethic. My journey in the world of technology has led me to explore cloud management ☁️ and delve into the exciting realm of DevOps tools 🛠️. I'm dedicated to staying up-to-date with the latest trends and technologies, and I'm always eager to take on new challenges. Let's connect and explore the possibilities of the digital world together! 🚀🌐
 
 ### Skills 
 <div align="center">  
@@ -42,15 +42,8 @@ Here are a few noteworthy projects I have worked on:
 - CGPA: 8.9
 
 ## Certifications
-- In progress: AWS Certified Cloud Practitioner
+- AWS Certified Cloud Practitioner
 
-## Connect with me  
-<div align="center">
-<a href="https://github.com/harshartz" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/harshhire" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harsh.artz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harshhire) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/harsh1hire) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/harshzart)
 
