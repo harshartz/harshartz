@@ -1,3 +1,7 @@
+
+![MasterHead](https://github.com/harshartz/harshartz/assets/130890384/f91064f0-126b-4783-877a-44e1eb9f36b9)
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1447870/screenshots/6163011/media/1f5e3cc39ac05fb870293745d3ff1f56.gif">
 # 💫 About Me:
 👋 I'm Harsh Hire, a tech enthusiast with a passion for learning and a strong work ethic. My journey in the world of technology has led me to explore cloud management ☁️ and delve into the exciting realm of DevOps tools 🛠️. I'm dedicated to staying up-to-date with the latest trends and technologies, and I'm always eager to take on new challenges. Let's connect and explore the possibilities of the digital world together! 🚀🌐
 
