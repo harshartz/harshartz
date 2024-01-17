@@ -29,6 +29,10 @@ Here are a few noteworthy projects I have worked on:
 5. **[Ansible Orchestrated Apache Web Hosting on AWS EC2](https://github.com/harshartz/Ansible-Orchestrated-Apache-Web-Hosting-on-AWS-EC2.git)**
    - Set up and configured a multi-server environment using Ansible on AWS EC2, with the objective of hosting an Apache server on multiple Ubuntu servers.
 
+6. **[Lambda-Deployment-with-CICD-Pipeline](https://github.com/harshartz/Lambda-Deployment-with-CICD-Pipeline.git)**
+   - Simplified AWS Lambda deployment using Jenkins, Docker, and ECR for a basic "Hello, World!" function.
+     
+
 
 ## Education
 - Bachelor of Engineering, Savitribai Phule Pune University, 2019 - 2022
